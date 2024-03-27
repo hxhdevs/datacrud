@@ -1,0 +1,48 @@
+.container, .container-fluid{
+	padding: 20px;	
+}
+h1{
+	font-size: 1.8em;
+	color: #666;
+    text-align: center;
+}
+
+.top-panel{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.dataTable td a{
+    padding: 4px 8px;
+    line-height: normal;
+}
+
+
+.form-radio{
+    text-align: left;
+    margin-bottom: 10px;
+}
+.form-radio label, .form-label{
+    font-weight: bold;
+}
+.form-radio input{
+    vertical-align: middle;
+}
+.alert {
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+}
+.alert-success {
+    color: #155724;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
